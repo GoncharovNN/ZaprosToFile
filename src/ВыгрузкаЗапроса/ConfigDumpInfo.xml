@@ -2,8 +2,8 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.5">
 	<ConfigVersions>
 		<Metadata name="CommonModule.ВыгрузкаЗапроса" id="f70b0bf5-74b9-4b12-b2f3-314099876349" configVersion="61de158d4e331e78cb0cd7f1a183268c0cea7c72"/>
-		<Metadata name="CommonModule.ВыгрузкаЗапроса.Module" id="f70b0bf5-74b9-4b12-b2f3-314099876349.0" configVersion="b52a624d2759deb68dd9ee12671ef4b032c970f3"/>
-		<Metadata name="Configuration.ВыгрузкаЗапроса" id="f757b9d6-f222-48b0-a341-a67a97d42ee2" configVersion="91bc578d9c5379f855a2d25ace9dbe7f0bd45a4a"/>
+		<Metadata name="CommonModule.ВыгрузкаЗапроса.Module" id="f70b0bf5-74b9-4b12-b2f3-314099876349.0" configVersion="177b8f4ecda00cc2b9010622c271ad3215813812"/>
+		<Metadata name="Configuration.ВыгрузкаЗапроса" id="f757b9d6-f222-48b0-a341-a67a97d42ee2" configVersion="660345937c3beb3ccda51540264a9cd44988a599"/>
 		<Metadata name="Language.Русский" id="d3249257-fc40-46fe-8838-e9de52806467" configVersion="3a38d84062787f2e3fe042c9082ce21419f8c284"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
